@@ -1,5 +1,6 @@
 # OptimizedTensorContraction
-Global search algorithms for finding optimal tensor network contraction sequences. See https://arxiv.org/abs/2001.08063 for more details on the algorithms and results for square and random tensor networks.
+Global search algorithms for finding optimal tensor network contraction sequences. 
+See https://arxiv.org/abs/2001.08063 for more details on the algorithms and results for square and random tensor networks.
 
 
 Edit fn_tensors.py to add your own tensor networks. Currently implemented: square tensor networks, random graphs.
