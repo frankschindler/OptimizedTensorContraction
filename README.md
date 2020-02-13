@@ -1,5 +1,6 @@
 # OptimizedTensorContraction
-Global search algorithms for finding optimal tensor network contraction sequences. 
+Global search algorithms for finding optimal tensor network contraction sequences.
+
 See https://arxiv.org/abs/2001.08063 for more details on the algorithms and results for square and random tensor networks.
 
 
