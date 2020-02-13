@@ -14,3 +14,5 @@ Edit and run rn_greedy.py for the Greedy Algorithm.
 
 
 Evaluate algorithm performance with eval_sequences.py and eval_history.py.
+
+![Example contraction sequences for a random graph tensor network](./dataRandom10/random_example-crop.jpg)
